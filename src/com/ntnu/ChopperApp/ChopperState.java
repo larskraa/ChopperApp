@@ -1,4 +1,4 @@
-package com.ntnu.MyGame;
+package com.ntnu.ChopperApp;
 import sheep.game.Game;
 
 /**

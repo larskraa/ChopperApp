@@ -1,4 +1,4 @@
-package com.ntnu.MyGame;
+package com.ntnu.ChopperApp;
 
 import android.app.Activity;
 import android.os.Bundle;
